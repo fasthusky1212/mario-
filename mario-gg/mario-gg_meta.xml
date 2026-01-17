@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>mario-gg</identifier>
+  <mediatype>software</mediatype>
+  <collection>softwarelibrary_msdos_games</collection>
+  <creator>Interplay</creator>
+  <description>&lt;span style="color:rgb(77,81,86);font-family:Roboto, arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);"&gt;"Mario's Game Gallery is a compilation of games published by Interplay Productions and developed by Presage Software, Inc. for DOS, Windows and Macintosh. It was released in 1995 in the United States." - Wikipedia&lt;/span&gt;</description>
+  <logo>MarioGG.jpg</logo>
+  <scanner>Internet Archive HTML5 Uploader 1.6.4</scanner>
+  <subject>Super Mario</subject>
+  <subject>Nintendo</subject>
+  <title>Mario's Game Gallery</title>
+  <uploader>hawin.family@gmail.com</uploader>
+  <publicdate>2021-05-23 22:10:29</publicdate>
+  <addeddate>2021-05-23 22:10:29</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20210523221659[/date][comment]checked for malware[/comment]</curation>
+  <emulator_start>start.bat</emulator_start>
+  <emulator_ext>zip</emulator_ext>
+  <emulator>dosbox</emulator>
+  <collection>softwarelibrary_msdos</collection>
+  <collection>softwarelibrary</collection>
+  <collection>emulation</collection>
+</metadata>
